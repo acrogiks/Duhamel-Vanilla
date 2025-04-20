@@ -1,2 +1,2 @@
-name = "Duhamel GUI"
-path = "mod/Duhamel"
+name = "Duhamel Vanilla"
+path = "mod/Duhamel Vanilla"
