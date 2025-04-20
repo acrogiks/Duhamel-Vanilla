@@ -1,1 +1,1 @@
-An edited version of Duhamel GUI made to be compatible with vanilla and non-HPM based mods.
+A version of Duhamel GUI with minor edits for compatibility with vanilla and non-HPM based mods.
